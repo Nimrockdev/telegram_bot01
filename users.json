@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "userTelegram": "@Nimrockdev",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "userTelegram": "@usuario2",
+      "activo": false
+    }
+  ]
+}
